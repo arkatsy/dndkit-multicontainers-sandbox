@@ -1,2 +1,2 @@
-# dndkit-multicontainers-sandbox
+# react-multiple-containers-dnd-example
 Created with CodeSandbox
